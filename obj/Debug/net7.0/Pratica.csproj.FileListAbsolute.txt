@@ -1,0 +1,14 @@
+C:\Users\Olga Maria Sengues\Desktop\Pratica\bin\Debug\net7.0\Pratica.exe
+C:\Users\Olga Maria Sengues\Desktop\Pratica\bin\Debug\net7.0\Pratica.deps.json
+C:\Users\Olga Maria Sengues\Desktop\Pratica\bin\Debug\net7.0\Pratica.runtimeconfig.json
+C:\Users\Olga Maria Sengues\Desktop\Pratica\bin\Debug\net7.0\Pratica.dll
+C:\Users\Olga Maria Sengues\Desktop\Pratica\bin\Debug\net7.0\Pratica.pdb
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.AssemblyInfoInputs.cache
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.AssemblyInfo.cs
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.csproj.CoreCompileInputs.cache
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.dll
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\refint\Pratica.dll
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.pdb
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\Pratica.genruntimeconfig.cache
+C:\Users\Olga Maria Sengues\Desktop\Pratica\obj\Debug\net7.0\ref\Pratica.dll
